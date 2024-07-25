@@ -9,14 +9,6 @@
 
 - 🌱 I’m currently learning **Cloud computing**
 
-- 👯 I’m looking to collaborate on **Any Java project**
-
-- 🤝 I’m looking for help with **Working together**
-
-- 💬 Ask me about **Java,Spring**
-
-- ⚡ What’s funny **Funny is funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
